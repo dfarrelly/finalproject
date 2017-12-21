@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CS328-A0</string>
+    <string name="Bsensor">Barometer</string>
+    <string name ="button_start">Start</string>
+    <string name = "button_stop">Stop</string>
+
+        <string name="x_blank">X</string>
+        <string name="y_blank">Y</string>
+        <string name="z_blank">Z</string>
+
+        <string name="wow">Stop by pressing the button</string>
+        <string name="woah">Start by pressing the button</string>
+    </resources>
+
+
